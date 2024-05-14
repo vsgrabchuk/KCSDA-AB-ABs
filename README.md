@@ -44,7 +44,7 @@
   - swifter
   - scipy
   - pandahouse
-  - gvs_ab
+  - gvs_ab (мой модуль для AB тестов и тд)
   - matplotlib
   - seaborn
   - plotly
